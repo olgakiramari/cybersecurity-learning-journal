@@ -1,17 +1,13 @@
-# Linux Practice
+# Linux Practice week 1
 
-## Commands used today:
+Today I learned basic Linux commands:
 
-- pwd
-- ls
-- cd
-- mkdir
-- touch
+- pwd → shows current directory
+- ls → lists files
+- cd → change directory
 
-## Example:
-mkdir test
-cd test
-touch file.txt
-
-## Key takeaway:
-Linux terminal is used to manage files and directories.
+Practiced commands in terminal on my mac:
+pwd
+ls
+cd ~
+ls

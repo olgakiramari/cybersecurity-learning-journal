@@ -15,7 +15,7 @@ Today I applied them in Packet Tracer.
 - Devices communicate using IP addresses
 
 ## Practical exercise
-- Used Packet Tracer to simulate network communication
+- Used Packet Tracer to simulate a configuration DHCP on a Wireless Router.
 - Observed how devices exchange packets
 
 ## What was confusing

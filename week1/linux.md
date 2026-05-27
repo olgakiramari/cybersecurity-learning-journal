@@ -1,6 +1,6 @@
 # Linux Practice week 1
 
-Today I learned these basic Linux commands and practiced in terminal on my mac:
+Today I learned these basic Linux commands, created folders and moved files using terminal on my mac:
 
 - pwd → shows current directory
 - ls → lists files

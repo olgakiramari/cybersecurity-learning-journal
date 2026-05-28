@@ -8,5 +8,6 @@ Today I learned these basic Linux commands, created folders and moved files usin
 - mkdir → make directory
 - touch → create new files and update file timestamps
 - mv →  renaming files or directories and moving them to a different location
+- rm → deleting files, fundamental utility for managing a filesystem.
 
 

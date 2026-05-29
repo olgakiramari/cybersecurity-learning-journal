@@ -1,14 +1,22 @@
-# Linux Practice week 1
+# Linux Practice — Week 1
 
-Today I learned these basic Linux commands, created folders and moved files using terminal on my mac:
+## What I practiced
+I learned and practiced basic Linux terminal commands using the macOS terminal.
 
-- pwd → shows current directory
-- ls → lists files
-- cd → change directory (cd ~ , cd .. , cd . , cd - )
-- mkdir → make directory
-- touch → create new files and update file timestamps
-- mv →  renaming files or directories and moving them to a different location
-- rm → deleting files, fundamental utility for managing a filesystem.
-- cat → viewing file contents, concatenate files and create files with redirection
+## Commands covered
+- pwd → shows the current working directory
+- ls → lists files and directories
+- cd → navigate between directories (cd ~, cd .., cd -)
+- mkdir → create directories
+- touch → create new files
+- mv → move or rename files and directories
+- rm → remove files
+- cat → display file contents
+- file → identify file types
 
+## Practice
+I used these commands directly in the terminal to navigate directories, create files and organize folders.
+
+## Key takeaway
+Linux command-line navigation becomes easier with daily practice and repetition.
 

@@ -18,6 +18,7 @@ I learned and practiced basic Linux terminal commands using the macOS terminal.
 - file → identify file types
 - find → locate a specific file on the system
 - less → displays text in a paged format
+- history → shows previously executed commands, useful for reviewing terminal activity
 
 ## Practice
 I used these commands directly in the terminal to navigate directories, create files and organize folders.

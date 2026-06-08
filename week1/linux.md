@@ -13,6 +13,7 @@ I learned and practiced basic Linux terminal commands using the macOS terminal.
 - rm → remove files
 - cat → display file contents
 - file → identify file types
+- find → locate a specific file on the system
 
 ## Practice
 I used these commands directly in the terminal to navigate directories, create files and organize folders.

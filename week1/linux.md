@@ -1,5 +1,8 @@
 # Linux Practice — Week 1
 
+## Overview
+This week I focused on building basic Linux command-line skills using macOS terminal.
+
 ## What I practiced
 I learned and practiced basic Linux terminal commands using the macOS terminal.
 
@@ -14,10 +17,13 @@ I learned and practiced basic Linux terminal commands using the macOS terminal.
 - cat → display file contents
 - file → identify file types
 - find → locate a specific file on the system
+- less → displays text in a paged format
 
 ## Practice
 I used these commands directly in the terminal to navigate directories, create files and organize folders.
 
+## Practical outcome
+I became more comfortable navigating the file system and managing files using the terminal instead of a graphical interface.
+
 ## Key takeaway
 Linux command-line navigation becomes easier with daily practice and repetition.
-

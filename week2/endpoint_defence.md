@@ -6,7 +6,7 @@
 - Completed the Knowledge Assessment
 - Completed Module 1.1: Common Threats
 - Completed Module 1.2: Deception
-- Completed Packet Tracer activity: Explore Social Engineering Techniques
+- Completed Lab: Explore Social Engineering Techniques
 
 ## Key Concepts
 
@@ -18,7 +18,7 @@
 
 ## Practical Work
 
-- Explored social engineering techniques through a Packet Tracer activity
+- Completed the **Explore Social Engineering Techniques** lab
 - Identified how deception is used to manipulate users and compromise systems
 
 ## Key Takeaway

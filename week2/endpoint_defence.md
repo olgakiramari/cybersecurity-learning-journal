@@ -4,23 +4,34 @@
 
 - Started the Cisco Endpoint Security course
 - Completed the Knowledge Assessment
-- Completed Module 1.1: Common Threats
-- Completed Module 1.2: Deception
+- Completed Module 1: Endpoint Security Fundamentals
 - Completed Lab: Explore Social Engineering Techniques
 
 ## Key Concepts
 
 - Common cybersecurity threats
 - Malware and malicious software
-- Social engineering attacks and deception techniques
+- Social engineering and deception techniques
 - Threat actors and attack motivations
-- The importance of endpoint protection
+- Endpoint security fundamentals
+- Cyber threats targeting endpoint devices
+- Application attacks
+- Wireless and mobile device attacks
 
 ## Practical Work
 
 - Completed the **Explore Social Engineering Techniques** lab
-- Identified how deception is used to manipulate users and compromise systems
+- Explored how attackers use deception to manipulate users
+- Identified common attack vectors targeting endpoint devices
+
+## Skills Developed
+
+- Recognizing common cyber threats
+- Identifying social engineering techniques
+- Understanding endpoint vulnerabilities
+- Understanding application, wireless, and mobile attacks
+- Applying fundamental endpoint security concepts
 
 ## Key Takeaway
 
-This week introduced common cyber threats, deception techniques, and social engineering attacks, providing a foundation for understanding how endpoints can be targeted and protected in modern networks.
+Module 1 provided a strong foundation in endpoint security by introducing the most common cyber threats, attack techniques, endpoint vulnerabilities, and the importance of protecting systems against modern attacks.

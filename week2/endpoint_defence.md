@@ -5,33 +5,75 @@
 - Started the Cisco Endpoint Security course
 - Completed the Knowledge Assessment
 - Completed Module 1: Endpoint Security Fundamentals
+- Completed Module 2: Protecting Endpoints
 - Completed Lab: Explore Social Engineering Techniques
+- Completed Packet Tracer: Investigate a Threat Landscape
 
 ## Key Concepts
 
-- Common cybersecurity threats
+- Common cybersecurity threats and attack vectors
 - Malware and malicious software
 - Social engineering and deception techniques
-- Threat actors and attack motivations
-- Endpoint security fundamentals
-- Cyber threats targeting endpoint devices
-- Application attacks
-- Wireless and mobile device attacks
+- Application, wireless, and mobile attacks
+- Endpoint protection technologies
+- Endpoint hardening and security best practices
+- Threat identification and risk mitigation
 
 ## Practical Work
 
-- Completed the **Explore Social Engineering Techniques** lab
-- Explored how attackers use deception to manipulate users
-- Identified common attack vectors targeting endpoint devices
+- Investigated a simulated threat landscape using Packet Tracer
+- Explored common social engineering techniques through a hands-on lab
+- Analyzed how different attack types target endpoint devices
+- Applied basic endpoint security concepts in practical scenarios
 
 ## Skills Developed
 
-- Recognizing common cyber threats
-- Identifying social engineering techniques
+- Identifying common cyber threats
+- Recognizing social engineering attacks
 - Understanding endpoint vulnerabilities
-- Understanding application, wireless, and mobile attacks
-- Applying fundamental endpoint security concepts
+- Applying endpoint protection concepts
+- Analyzing different attack methods
+- Developing a security-first mindset
 
 ## Key Takeaway
 
-Module 1 provided a strong foundation in endpoint security by introducing the most common cyber threats, attack techniques, endpoint vulnerabilities, and the importance of protecting systems against modern attacks.
+This week provided a solid introduction to endpoint security by combining theoretical concepts with hands-on activities. I developed a better understanding of modern cyber threats, endpoint protection strategies, and the importance of securing devices against a wide range of attacks.# Endpoint Security - Week 1
+
+## Progress
+
+- Started the Cisco Endpoint Security course
+- Completed the Knowledge Assessment
+- Completed Module 1: Endpoint Security Fundamentals
+- Completed Module 2: Protecting Endpoints
+- Completed Lab: Explore Social Engineering Techniques
+- Completed Packet Tracer: Investigate a Threat Landscape
+
+## Key Concepts
+
+- Common cybersecurity threats and attack vectors
+- Malware and malicious software
+- Social engineering and deception techniques
+- Application, wireless, and mobile attacks
+- Endpoint protection technologies
+- Endpoint hardening and security best practices
+- Threat identification and risk mitigation
+
+## Practical Work
+
+- Investigated a simulated threat landscape using Packet Tracer
+- Explored common social engineering techniques through a hands-on lab
+- Analyzed how different attack types target endpoint devices
+- Applied basic endpoint security concepts in practical scenarios
+
+## Skills Developed
+
+- Identifying common cyber threats
+- Recognizing social engineering attacks
+- Understanding endpoint vulnerabilities
+- Applying endpoint protection concepts
+- Analyzing different attack methods
+- Developing a security-first mindset
+
+## Key Takeaway
+
+This week provided a solid introduction to endpoint security by combining theoretical concepts with hands-on activities. I developed a better understanding of modern cyber threats, endpoint protection strategies, and the importance of securing devices against a wide range of attacks.

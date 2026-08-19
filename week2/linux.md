@@ -8,3 +8,6 @@ stderr
 pipe and tee 
 env
 cut
+paste
+head
+tail

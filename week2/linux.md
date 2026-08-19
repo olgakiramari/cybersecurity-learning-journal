@@ -11,3 +11,4 @@ cut
 paste
 head
 tail
+expand and unexpand

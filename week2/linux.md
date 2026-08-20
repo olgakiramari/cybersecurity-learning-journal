@@ -11,4 +11,5 @@ cut
 paste
 head
 tail
-expand and unexpand
+expand and unexpandt
+join and split

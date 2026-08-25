@@ -13,3 +13,5 @@ head
 tail
 expand and unexpandt
 join and split
+sort
+tr(translate)

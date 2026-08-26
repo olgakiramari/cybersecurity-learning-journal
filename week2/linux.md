@@ -17,3 +17,4 @@ sort
 tr(translate)
 uniq
 wc and nl
+grep

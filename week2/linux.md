@@ -16,3 +16,4 @@ join and split
 sort
 tr(translate)
 uniq
+wc and nl

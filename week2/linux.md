@@ -18,4 +18,4 @@ tr(translate)
 uniq
 wc and nl
 grep
- μπηκα advanced text fu kai eknaa regex,text editors, vim, vim search patterns, vim navogation,vim inserting and appending search
+ μπηκα advanced text fu kai eknaa regex,text editors, vim, vim search patterns, vim navogation,vim inserting and appending text

@@ -19,3 +19,4 @@ uniq
 wc and nl
 grep
  μπηκα advanced text fu kai eknaa regex,text editors, vim, vim search patterns, vim navogation,vim inserting and appending text
+ vimtutor in terminal chapter 1

@@ -49,3 +49,49 @@ through Linux Journey.
 
 This lab helped me practice combining multiple Linux commands to analyze
 log data instead of using each command individually.
+
+
+
+
+
+# Linux Practice — Week 3
+
+Continued my Linux fundamentals through Linux Journey, focusing on user management, ownership, file permissions, and special permission bits.
+
+## User Management
+
+- Learned how Linux identifies users and groups using UIDs and GIDs
+- Practiced `id`, `groups`, and `getent passwd`
+- Learned the difference between primary and supplementary groups
+- Studied the root account and the significance of UID 0
+- Learned how `sudo`, `su`, and `su -` differ
+- Learned how `/etc/passwd` stores local account information
+- Studied service accounts and login shells
+- Learned basic account and password management concepts
+
+## File Permissions & Ownership
+
+- Learned how Linux `r`, `w`, and `x` permissions work for user, group, and others
+- Practiced reading file and directory permissions with `ls -l` and `ls -ld`
+- Used symbolic permissions with `chmod`
+- Used octal permissions such as `640` and `750`
+- Practiced changing file ownership and group ownership with `chown` and `chgrp`
+- Learned how directory permissions differ from file permissions
+- Learned how parent directory permissions affect file deletion
+- Studied `umask` and how it affects permissions on newly created files and directories
+
+## Special Permissions
+
+- Learned how SetUID allows an executable to run with the file owner's effective UID
+- Learned how SetGID works on executables and how SetGID directories can make new files inherit the directory's group
+- Learned how the Sticky Bit protects entries inside shared writable directories
+- Learned who can remove or rename entries inside a directory protected by the Sticky Bit
+- Practiced recognizing SetUID (`s`), SetGID (`s`), and Sticky Bit (`t`) in permission strings
+
+## Commands Practiced
+
+`id`, `groups`, `getent`, `sudo`, `su`, `ls -l`, `ls -ld`, `chmod`, `chown`, `chgrp`, `umask`
+
+## Key Takeaway
+
+This section helped me understand how Linux controls access through users, groups, ownership, standard permissions, and special permission bits such as SetUID, SetGID, and the Sticky Bit.
